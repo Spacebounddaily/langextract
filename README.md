@@ -27,6 +27,7 @@
   - [Radiology Report Structuring: RadExtract](#radiology-report-structuring-radextract)
 - [Community Providers](#community-providers)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 - [Testing](#testing)
 - [Disclaimer](#disclaimer)
 
@@ -377,7 +378,11 @@ with development, testing, and pull requests. You must sign a
 [Contributor License Agreement](https://cla.developers.google.com/about)
 before submitting patches.
 
+We recognize and appreciate all contributors to this project. See our [Contributors](CONTRIBUTORS.md) page for acknowledgments.
 
+## Contributors
+
+We extend our gratitude to everyone who has contributed to LangExtract. Your contributions help make this project better for the community. See the full list of contributors in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 ## Testing
 
